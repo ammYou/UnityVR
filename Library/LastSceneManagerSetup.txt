@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityARKitPlugin/Examples/FaceTracking/FaceBlendshapeScene.unity
+  isLoaded: 1
+  isActive: 1

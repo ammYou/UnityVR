@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7811A4FE-C37A-C653-AAE7-FD362041DC7E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/FaceMeshManager.cs">
+    <Files>
+      <File FileName="Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapeDriver.cs" Line="21" Column="42" />
+      <File FileName="Assets/Script/FaceMeshManager.cs" Line="98" Column="14" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs" Line="38" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
